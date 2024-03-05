@@ -12,7 +12,7 @@ Humans have been trying to mimic the world around them since time immemorial. Ob
 
 Thus, in crux, Artificial Intelligence is a technique that enables computers to emulate human intelligence. When machines demonstrate the ability to perform tasks typically associated with human cognitive functions, we attribute these capabilities to AI. IBM states that AI, in its simplest form, is a field that combines computer science and robust datasets to enable problem-solving.
 
-{% include elements/figure.html image="../AI_subsystem.png" caption="The Relationship Between AI, ML, DL, and Data Science" %}
+{% include elements/figure.html image="../assets/AI_subsystem.png" caption="The Relationship Between AI, ML, DL, and Data Science" %}
 
 But what exactly distinguishes Machine Learning (ML) from AI, and where does Deep Learning (DL) fit into the picture? As depicted in the above figure, AI acts as a superset, encompassing various technologies and methodologies to simulate human-like intelligence. ML is one of its subsets, and further, DL is nested within ML. Each layer builds upon the other, leading to increasingly sophisticated capabilities. In this interconnected landscape, Data Science emerges as a critical enabler, traversing the domains of AI, ML, and DL.
 
