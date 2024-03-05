@@ -1,15 +1,27 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
+- title: MS in AI, San Jose State University
+  location: San Jose, USA
+  from: 2022
+  to: Present (Expected May 2024)
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
+- title: Sr. Machine Learning Engineer, Quantiphi Analytics
+  location: Mumbai, India
+  from: 2021
+  to: 2022
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+- title: Machine Learning Engineer, Quantiphi Analytics
+  location: Mumbai, India
+  from: 2019
+  to: 2021
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris

@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Akanksha Joshi
 description         : >-
-                    Welcome! I'm the friendly neighborhood machine learning enthusiast, \
-                    always on the lookout for fascinating data to turn into insights.
+                    Welcome! I'm a Machine Learning Engineer with a passion for unraveling data mysteries. 
+                    Explore my portfolio to see how I turn raw data into actionable insights.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : akanksha276/akanskha276.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -24,7 +24,7 @@ nav_exclude:                                            # The following paths ar
 ### Author Info ###
 author:
   name              : Akanksha Joshi
-#  image             :
+  image             : profile_image.jpeg
 # behance           : your_username
 # dribbble          : your_username
   email             : akanksha276@google.com
@@ -86,11 +86,6 @@ defaults:
       type: "projects"
     values:
       layout: "page"
-  - scope:                                              # For Documentation Only
-      path: ""                                          # For Documentation Only
-      type: "elements"                                  # For Documentation Only
-    values:                                             # For Documentation Only
-      layout: "element"                                 # For Documentation Only
   - scope:
       path: ""
       type: "posts"
