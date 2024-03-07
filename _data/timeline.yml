@@ -1,29 +1,24 @@
-- title: MS in AI, San Jose State University
-  location: San Jose, USA
-  from: 2022
-  to: Present (Expected May 2024)
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+- title: "MS in AI, San Jose State University"
+  location: "San Jose, USA"
+  from: "2022"
+  to: "Present (Expected May 2024)"
+  description: Courses - AI and Data Engineering, Data Mining, Machine Learning, Deep Learning, NLP, 
+              Recommendation System, Math Foundations for Decision and Data Science.<br/>
+              <br><b>Research Assistant - Dr. Gheorghi Guzun</b>
+              <br><i>Apr 2023 - Present</i>
+              <br>- Working on building a novel data structure that can store sparse vectors in deep neural networks in a compressed and quantized manner leading to faster model training. 
+              <br>- Data structure built using C++, and we are creating a library/extension of the same in PyTorch for open-source access.
 - title: Sr. Machine Learning Engineer, Quantiphi Analytics
   location: Mumbai, India
   from: 2021
   to: 2022
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  description: 
+              <br> - Spearheaded the development and deployment of a cutting-edge ML pipeline for blood cell abnormality detection on the Google Cloud Platform.
+              <br> - Led the development of a call log insight generation tool, employing hierarchical clustering for topic modeling and multi-intent identification.
 - title: Machine Learning Engineer, Quantiphi Analytics
   location: Mumbai, India
   from: 2019
   to: 2021
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: <br>- My daily activities were centered around pivotal tasks such as data acquisition and preprocessing, orchestrating and conducting model experiments, refining model performance through iterative optimization, and presenting technically adept insights and code elucidations to clients.
+               <br>- Leveraging computer vision and natural language processing (NLP) techniques, I engineered scalable pipelines that integrated seamlessly into existing infrastructures, with rigorous testing protocols ensuring robustness and reliability. 
+               <br>- This multifaceted role demanded a blend of technical expertise, creative problem-solving skills, and effective communication to ensure the successful development and deployment of machine learning solutions across diverse domains.
