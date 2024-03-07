@@ -1,7 +1,7 @@
 ### Site Settings ###
 title               : Akanksha Joshi
 description         : >-
-                    Welcome! I'm a Machine Learning Engineer with a passion for unraveling data mysteries. 
+                    Hello! I'm a Machine Learning Engineer with a passion for unraveling data mysteries. 
                     Explore my portfolio to see how I turn raw data into actionable insights.
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : akanksha276/akanskha276.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
