@@ -1,7 +1,0 @@
-- name: Computer Vision
-  percentage: 95
-  color: info
-
-- name: NLP
-  percentage: 95
-  color: success

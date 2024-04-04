@@ -1,11 +1,11 @@
 - name: Python
   percentage: 100
-  color: danger
+  color: success
 
 - name: PyTorch
-  percentage: 90
-  color:
+  percentage: 95
+  color: primary
 
 - name: TensorFlow
-  percentage: 80
+  percentage: 85
   color: secondary

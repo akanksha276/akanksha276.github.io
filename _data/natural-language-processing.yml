@@ -1,0 +1,11 @@
+- name: LLM
+  percentage: 95
+  color: primary
+
+- name: RAG
+  percentage: 95
+  color: primary
+
+- name: LangChain
+  percentage: 95
+  color: primary

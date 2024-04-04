@@ -1,0 +1,12 @@
+- name: Object Detection
+  percentage: 100
+  color: success
+
+- name: Instance Segmentation
+  percentage: 95
+  color: primary
+
+- name: Image Generation
+  percentage: 90
+  color: secondary
+
