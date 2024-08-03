@@ -1,11 +1,15 @@
+- title: "Machine Learning Engineer, Cisco"
+  location: "San Jose, USA"
+  from: "July 2024"
+  to: "Present"
 - title: "MS in AI, San Jose State University"
   location: "San Jose, USA"
-  from: "2022"
-  to: "Present (Expected May 2024)"
+  from: "Aug 2022"
+  to: "May 2024"
   description: Courses - AI and Data Engineering, Data Mining, Machine Learning, Deep Learning, NLP, 
               Recommendation System, Math Foundations for Decision and Data Science.<br/>
               <br><b>Research Assistant - Dr. Gheorghi Guzun</b>
-              <br><i>Apr 2023 - Present</i>
+              <br><i>Apr 2023 - Apr 2024</i>
               <br>- Working on building a novel data structure that can store sparse vectors in deep neural networks in a compressed and quantized manner leading to faster model training. 
               <br>- Data structure built using C++, and we are creating a library/extension of the same in PyTorch for open-source access.
 - title: Sr. Machine Learning Engineer, Quantiphi Analytics
