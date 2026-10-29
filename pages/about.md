@@ -7,13 +7,11 @@ weight: 3
 
 # **About Me**
 
-Hi, I'm **{{ site.author.name }}** --- an ML Engineer at Cisco working on multi-agent systems and agentic infrastructure.
+Hi, I'm **{{ site.author.name }}**, an ML Engineer at Cisco working on multi-agent systems and agentic infrastructure.
 
-My current work is on cognition protocols: the coordination layer that lets LLM agents reason together --- aligning on purpose, resolving conflict, and maintaining shared semantic state across long multi-agent sequences. I write about it on [Outshift](https://outshift.cisco.com/blog/ai-ml/cognition-protocols-make-agents-think-together).
+My current work is part of Internet of Cognition, Cisco's initiative to build the infrastructure layer for collective AI reasoning. This includes cognition protocols: how agents align on purpose, resolve conflict, and maintain shared semantic state across coordination sequences. I write about it on [Outshift](https://outshift.cisco.com/blog/ai-ml/cognition-protocols-make-agents-think-together).
 
-Before this I completed my M.S. in AI at San Jose State University, where my second year was spent in research on compressed sparse vector representations for deep networks --- building a data structure with a PyTorch extension for open-source use. Prior to grad school I spent three years at Quantiphi building production ML pipelines across computer vision and NLP domains, and have authored research papers and hold multiple patents pending.
-
----
+Before this I completed my M.S. in AI at San Jose State University, where my second year was spent in research on compressed sparse vector representations for deep networks, building a data structure with a PyTorch extension for open-source use. Prior to grad school I spent three years at Quantiphi building production ML pipelines across computer vision and NLP domains, and have authored research papers and hold multiple patents pending.
 
 <div class="row mt-4">
   <div class="col-12 mb-4">
