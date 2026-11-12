@@ -18,12 +18,12 @@
   from: 2021
   to: 2022
   description:
-              <br> - Spearheaded the development and deployment of a cutting-edge ML pipeline for blood cell abnormality detection on the Google Cloud Platform.
-              <br> - Led the development of a call log insight generation tool, employing hierarchical clustering for topic modeling and multi-intent identification.
-- title: Machine Learning Engineer, Quantiphi Analytics
+              <br>- Collaborated with doctors from Medanta Hospital on histopathological cell data for cell abnormality detection using Swin-Transformer.
+              <br>- Built a call log insight generation tool for topic modeling and multi-intent identification using hierarchical clustering.
+- title: "Machine Learning Engineer"
   location: Mumbai, India
   from: 2019
   to: 2021
-  description: <br>- My daily activities were centered around pivotal tasks such as data acquisition and preprocessing, orchestrating and conducting model experiments, refining model performance through iterative optimization, and presenting technically adept insights and code elucidations to clients.
-               <br>- Leveraging computer vision and natural language processing (NLP) techniques, I engineered scalable pipelines that integrated seamlessly into existing infrastructures, with rigorous testing protocols ensuring robustness and reliability.
-               <br>- This multifaceted role demanded a blend of technical expertise, creative problem-solving skills, and effective communication to ensure the successful development and deployment of machine learning solutions across diverse domains.
+  description: AthenasOwl was an AI solutions company for the Media and Sports industry (a Quantiphi company, now shut down). Worked on OTT content readiness for global distribution.<br/>
+              <br>- Built a text detection model for overlaid text and subtitles, and a video similarity model to map subtitle shots to their corresponding textless shots.
+              <br>- Built a machine translation model to convert non-English subtitles to English.
